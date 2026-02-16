@@ -1,2 +1,2 @@
-
+To pull operations on remote repository
 hello
